@@ -1,4 +1,4 @@
-# The Next Enterprise AI Revolution: From Buying Software to Building Intelligence
+# The Next Enterprise AI Revolution: From Isolated Systems to Connected Intelligence
 
 **For decades, enterprises have bought software to run their businesses. AI is creating an opportunity to build intelligence around how their businesses actually work.**
 
